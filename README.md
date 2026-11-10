@@ -2,9 +2,11 @@
   <img src="https://raw.githubusercontent.com/Stirling-Tools/Stirling-PDF/main/docs/stirling.png" width="80" alt="Stirling PDF logo">
 </p>
 
-<h1 align="center">Stirling PDF - The Open-Source PDF Platform</h1>
+<h1 align="center">SadSha PDF - The Open-Source PDF Platform</h1>
 
-Stirling PDF is a powerful, open-source PDF editing platform. Run it as a personal desktop app, in the browser, or deploy it on your own servers with a private API. Edit, sign, redact, convert, and automate PDFs without sending documents to external services.
+SadSha PDF is a powerful, open-source PDF editing platform. Run it as a personal desktop app, in the browser, or deploy it on your own servers with a private API. Edit, sign, redact, convert, and automate PDFs without sending documents to external services.
+
+> SadSha PDF is a rebrand of [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) by Stirling-Tools, released under the MIT licence — see [LICENSE](LICENSE). The upstream project, docs and Docker images remain Stirling's; a SadSha Docker image is not published yet.
 
 <p align="center">
   <a href="https://hub.docker.com/r/stirlingtools/stirling-pdf">
@@ -66,4 +68,4 @@ For adding translations, see the [Translation Guide](docs/developer/HowToAddNewL
 
 ## License
 
-Stirling PDF is open-core. See [LICENSE](LICENSE) for details.
+SadSha PDF is based on Stirling PDF (open-core). See [LICENSE](LICENSE) for details.
